@@ -1,7 +1,7 @@
-- 👋 Hi, I’m shubhangi mali. my username is @MShubh07
+- 👋 Hi, I’m shubhangi mali. 
 - 👀 I’m interested in data analytics tools and tips.
 - 🌱 I’m currently learning data analysis.
-- 💞️ I’m looking to collaborate on- i don't know yet.
+- 💞️ I’m looking to collaborate very soon.
 
 
 <!---
